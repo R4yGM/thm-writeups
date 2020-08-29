@@ -71,3 +71,5 @@ that gave me root shell
 cat /root/root.txt
 THM{pr1v1lege_escalat1on_us1ng_capab1l1t1es}
 ```
+
+this was my first writeup ^^
