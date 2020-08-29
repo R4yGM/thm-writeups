@@ -44,7 +44,7 @@ nc -lvp $LPORT
 **9)** then get the user flag located in /home/kiba/user.txt
 ```bash
 cat /home/kiba/user.txt
-THM{1s_easy_pwn3d_k1bana_w1th_rce}
+THM{****************}
 ```
 **10)** the box says that root can be obtainied throught linux capabilities, then list all the capabilities with:
 ```bash
@@ -69,7 +69,7 @@ that gave me root shell
 **12)** then get root flag
 ```bash
 cat /root/root.txt
-THM{pr1v1lege_escalat1on_us1ng_capab1l1t1es}
+THM{****************************}
 ```
 
 this was my first writeup ^^
