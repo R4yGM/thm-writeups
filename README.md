@@ -1,2 +1,3 @@
 # thm-writeups
-my TryHackMe writeups
+Writeups:
+- [Kiba](/kiba)
