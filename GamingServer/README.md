@@ -101,3 +101,4 @@ now get the root flag
 cat mnt/root/root/flag.txt
 2************c
 ```
+if it's not working try following this [guide](https://www.hackingarticles.in/lxd-privilege-escalation/)
