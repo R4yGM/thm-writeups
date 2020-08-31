@@ -65,7 +65,7 @@ now get the user flag
 cat user.txt
 a****************e
 ```
-searching and looking in the machine i found an interesting service called lxd(Linux Containers) owned by root and can be used by anyone,
+after searching and looking in the machine i found an interesting service called lxd(Linux Containers) owned by root and that can be used by anyone,
 
 locally clone that repo and run the other commands
 ```bash
