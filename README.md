@@ -1,5 +1,7 @@
 # TryHackMe Writeups
 
+<img src="https://assets.tryhackme.com/img/THMlogo.png" width="200" height="100">
+
 This is a list of my writeups:
 
 
