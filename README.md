@@ -1,6 +1,4 @@
-# TryHackMe Writeups
-
-<img src="https://assets.tryhackme.com/img/THMlogo.png" width="200" height="100">
+# TryHackMe Writeups <img src="https://assets.tryhackme.com/img/THMlogo.png" width="200" height="100">
 
 **Author of the writeups** : R4yan/R4yGM/@R4yDev 
 
