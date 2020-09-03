@@ -6,9 +6,15 @@
 
 **discord:** .[R4y]#3430
 
-This is a list of my writeups:
+
+![https://tryhackme.com/p/R4yan](https://raw.githubusercontent.com/R4yGM/thm-writeups/master/R4yan.png)
+
+**THM** : [R4yan](https://tryhackme.com/p/R4yan)
+
+This is the list of my writeups:
 
 
 - [Kiba](/thm-writeups/Kiba/)
 - [GamingServer](/thm-writeups/GamingServer/)
 - [Source](/thm-writeups/Source/)
+
