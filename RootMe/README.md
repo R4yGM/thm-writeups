@@ -2,6 +2,8 @@
 
 <img src="https://i.imgur.com/Wp8VFx7.png" width="100" height="100">
 
+Author : [R4yan](https://tryhackme.com/p/R4yan)
+
 ## TASK 2
 
 1) start a nmap scan 
