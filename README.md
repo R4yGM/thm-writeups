@@ -13,5 +13,3 @@ This is the list of my writeups:
 - [GamingServer](/thm-writeups/GamingServer/)
 - [Source](/thm-writeups/Source/)
 - [RootMe](/thm-writeups/RootMe/)
-
-![https://tryhackme.com/p/R4yan](https://raw.githubusercontent.com/R4yGM/thm-writeups/master/R4yan.png)
